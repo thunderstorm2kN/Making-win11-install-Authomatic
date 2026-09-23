@@ -16,5 +16,4 @@ Again, the offline version skips the update process and makes writing Windows 11
 If you've made it this far, thank you for using my software. I want to remind you that I do not assume responsibility for any damages or data loss. However, I can promise that everything posted here was tested at least once installing Windows 11 on one of my ASUS Vivobook laptops (both on AMD and Intel platforms). If I find a bug, I'll report it in the "File with bugs."
 
 
-Before using any of the scripts please read the "Warnings and operation procedures of the scripts" as these tools are highly automatic and can result in loss of data is used carelessly. 
-Thank you for your understanding!    
+Before using any of the scripts, please read the "Warnings and operation procedures of the scripts," as these tools are highly automatic and can result in loss of data if used carelessly. Thank you for your understanding!
