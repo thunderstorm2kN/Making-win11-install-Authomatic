@@ -6,7 +6,7 @@ Warning: Once you selected the ssd be careful as the installation will begin if 
 
 After the installation the script makes the OOBE to ask you for network(where you press I dont have network for offline ver or connect to wifi/LAN if you use the other version), and to make a user name for the local user account and password(not compulsitory and you may click next if you dont need a password, advantage: you dont need a password to unlock/ start your win11 on your laptop anymore).
 
-after this windows will begin the updating process which is slow, I cannot fix MS servers unfortunately :))))
+after this windows 11 will begin the updating process which is slow, I cannot fix MS servers unfortunately :))))
 
 but nonetheless... at some point the online ver will do 3 restarts (because win11 updates and installs new-ish drivers) and let you in the win11 desktop with its normal UI.
 
