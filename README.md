@@ -21,8 +21,6 @@ Cleans up after itself: deletes the leftover setup files (including anything tha
 
 Everything runs automatically from a set of scripts bundled inside the single XML file — no extra USB partitions or separate files needed, it unpacks itself during setup.
 
-Why it's worth sharing: the "bloat" most people associate with Windows being slow isn't really there once you strip this stuff out. It's actually pretty snappy underneath.
-
 Caveats:
 
 Requires a valid Windows 11 license — this only automates setup, doesn't touch activation
