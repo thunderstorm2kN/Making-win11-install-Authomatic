@@ -1,9 +1,11 @@
-I actually encountered a BUG on both offline and sep 2026 versions. 
+Known Bugs
 
-What happens? If you already had a LAN adapter insterted the OOBE (and yes, I BLAME Microsoft for the bug) the win11 OOBE does not see it, it literally acts as if it has no internet, as dumb as it sounds.
+LAN adapter not detected during OOBE (Offline & September 2026 versions)
 
-How do we fix it? You unplug the LAN cable from the adapter or the adapter from the usb/usb hub. I use laptops so I also used usb 2 and 3 to LAN adapters from tp link. 
+What happens: If you already have a LAN adapter plugged in before reaching OOBE, Windows 11's OOBE fails to detect it — it behaves as if there's no internet connection at all. (Yes, I'm blaming Microsoft for this one.)
 
-Why does this work? I suspect because were resetting the network interface, forcing the buggy OOBE(win11 installer) to look if they found our LAN card, and if they found it the indicator spins because the pc is getting an IP address, therefore getting connected to internet after a while. 
+How to fix it: Unplug the LAN cable from the adapter, or unplug the adapter itself from the USB port/hub, then plug it back in. I use laptops, so I've tested this with both USB 2.0 and USB 3.0 TP-Link USB-to-LAN adapters.
 
-I want to remind you I'm a single "dev" with limited time so if new bugs appear pls write a comment to see how we can sort this out... 
+Why this works: My best guess is that this resets the network interface, forcing the buggy OOBE (Windows installer) to re-scan for the LAN adapter. Once it detects it, the connection indicator will spin while it grabs an IP address, and you'll be connected to the internet shortly after.
+
+A note on support: I'm a single dev with limited time, so if you run into new bugs, please leave a comment and I'll do my best to help figure it out.
