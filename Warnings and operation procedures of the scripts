@@ -32,16 +32,4 @@ That said, at some point the online version will restart 3 times (since Windows 
 Again, the offline version skips the update process and makes writing Windows 11 to disk faster, but you'll still need to wait a while for Windows updates afterward, since they're needed to install drivers (and this makes the overall process more automatic, at least from my point of view, in this context).
 
 
-Please make sure NOT to choose offline unless you actually plan installing win11 without wifi/Lan ethernet connection, this can reduce times as tested by us to 15/20 minutes of installation but will require you to plug in a usb cable or do android usb tethering because you will need installing drivers later.
 
-The online and offline versions are meant to install win11 pro with language support for Locales: English - Us, Romanian and Norwegian.
-
-Warning: Once you selected the ssd be careful as the installation will begin if you press next.
-
-After the installation the script makes the OOBE to ask you for network(where you press I dont have network for offline ver or connect to wifi/LAN if you use the other version), and to make a user name for the local user account and password(not compulsitory and you may click next if you dont need a password, advantage: you dont need a password to unlock/ start your win11 on your laptop anymore).
-
-after this windows 11 will begin the updating process which is slow, I cannot fix MS servers unfortunately :))))
-
-but nonetheless... at some point the online ver will do 3 restarts (because win11 updates and installs new-ish drivers) and let you in the win11 desktop with its normal UI.
-
-Again, the offline ver will skip the updating process and make everything faster regarding writing win11 but you'll still have to wait a good amount of time for windows updates as they're needed to install drivers (and makes the process more automatic like this from my pov).
