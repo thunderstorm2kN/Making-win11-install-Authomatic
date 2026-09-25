@@ -18,3 +18,6 @@ If you've made it this far, thank you for using my software. I want to remind yo
 Note: If your system is officially supported by Windows 11, the bypasses in the code (for TPM, CPU generation, and RAM requirements) will simply be ignored by the installer.
 
 Before using any of the scripts, please read the "Warnings and operation procedures of the scripts," as these tools are highly automatic and can result in loss of data if used carelessly. Thank you for your understanding!
+
+Take a look on how it works! 
+https://vm.tiktok.com/ZN8MoXddh/
